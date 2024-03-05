@@ -4,7 +4,7 @@
 - **Name:** Qaiylah Conway
 - **Date:** 12 October 2001
 - **Current Role/Position:** Software Development Student
-- **Field of Interest:** Front-end developement, Cyber-security
+- **Field of Interest:** Front-end developement
 
 ### Part 1: Self-Assessment Reflection
 
@@ -26,7 +26,7 @@
     
    **Key Interests Related to Your Career:**
       My interests include:
-   - **Gaming**: The intersection of technology and entertainment.
+   - **Video Gaming**: The intersection of technology and entertainment.
    - **Software Front-End Development**: Creating user-friendly interfaces.
    - **Cybersecurity**: Safeguarding digital assets.
 
@@ -62,12 +62,77 @@
 
 1. **Short-term Goals** (Next 1-2 years):
     
-    - List your specific, measurable, achievable, relevant, and time-bound goals.
-    - Explain the rationale behind each goal.
+   **SMART Goals** ( Specific, Measurable, Achievable, Relevant, and Time-bound):
+
+1. **Specific**: Clearly define what you want to achieve. In your case:
+   - "I want to become a junior software developer and study cyber-security part-time."
+
+2. **Measurable**: Determine how you'll measure your progress. For instance:
+   - "I will complete my software development course by July 2024."
+   - "I will enroll in a cyber-security program within the next 6 months."
+
+3. **Achievable**: Ensure your goal is realistic and attainable:
+   - "I will actively participate in coding projects during my software development course."
+   - "I will allocate time each week for cyber-security studies."
+
+4. **Relevant**: Align your goal with your long-term aspirations:
+   - "Becoming a junior developer will provide practical experience."
+   - "Studying cyber-security complements my software development skills."
+
+5. **Time-bound**: Set a deadline for your goal:
+   - "By July 2024, I will secure a junior software developer position."
+   - "Within 2 years, I will complete my cyber-security studies."
+
+My SMART goal could be:
+
+> **"By July 2024, I will become a junior software developer and concurrently study cyber-security part-time."**🌟
+
+
 2. **Long-term Goals** (3-5 years and beyond):
     
     - Outline your long-term career aspirations.
-    - Describe how these align with your interests and skills.
+      
+     **SMART** plan that encompasses my aspirations in cyber security, freelancing, and mentoring young girls interested in tech:
+
+1. **Specific**:
+   - Clearly define what you want to achieve:
+     - "I want to establish a successful career in cyber security."
+     - "I aim to freelance as a cyber security professional."
+     - "I plan to create a business focused on mentoring young girls in software development and cyber security."
+
+2. **Measurable**:
+   - Determine how you'll measure your progress:
+     - "I will acquire relevant certifications or degrees in cyber security."
+     - "I will complete a certain number of freelance projects."
+     - "I will track the number of girls I mentor and their progress."
+
+3. **Achievable**:
+   - Ensure your goals are realistic and attainable:
+     - "I will actively seek job opportunities in cyber security."
+     - "I will build a strong portfolio for freelancing."
+     - "I will network with schools and organizations to find mentees."
+
+4. **Relevant**:
+   - Align your goals with your long-term vision:
+     - "A career in cyber security aligns with my passion and skills."
+     - "Freelancing allows me to gain diverse experience."
+     - "Mentoring young girls contributes to a more inclusive tech industry."
+
+5. **Time-bound**:
+   - Set deadlines for each component of your goal:
+     - "Within 2 years, I will secure a full-time job in cyber security."
+     - "By the end of year 3, I will have completed at least 5 freelance projects."
+     - "Within 5 years, I will have established my mentoring business."
+
+My SMART goal plan could be:
+
+> **"Over the next 5 years, I will build a successful career in cyber security, take on freelance projects, and launch my own business to mentor young girls interested in tech."**🌟
+
+
+    - Describe how these align with your interests and skills:
+    I believe once I have completed my 1-2 year plan I'll have the skills to mentor young girls. It is a dream to help give them the confidence and not be afraid to enter a male- 
+    dominate industry. 
+    
 
 ### Part 4: Action Plan
 
@@ -91,13 +156,5 @@
     - Highlight any opportunities you can leverage for career growth.
     - Include networking, mentorship, or educational opportunities.
 
-### Submission
-
-- To complete this submission you will need to use this template and complete Parts 1 to 5.
-- Note this reflection Template is a guide to help prompt your reflections in each section.
-- You will fill in your reflections for each seciton under Parts 1 to 5.
-- Change the name of your forked CDV01_Career_Goals_Reflection_StudentNo_Classcode_Group_Name-Surname_CDV01 repository to reflect your Student Number, ClassCode, Group Name and Name.
-- You will then submit a link to your renamed CDV01 GitHub repo to the CDV01 Project Tab on the LMS.
-
-  Certainly! Let's delve into your skills, interests, and career exploration insights. 🌟
+🌟
 
