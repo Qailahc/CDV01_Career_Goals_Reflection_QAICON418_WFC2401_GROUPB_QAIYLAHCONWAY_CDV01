@@ -16,31 +16,47 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:** Qaiylah Conway
+- **Date:** 12 October 2001
+- **Current Role/Position:** Software Development Student
+- **Field of Interest:** Front-end developement, Cyber-security
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
     - List your current skills and areas of expertise.
+      As an aspiring web developer, I am adept at organizing web page elements using HTML, CSS, Tailwind and JavaScript. I can also build apps using Firebase. The ability to 
+      create portfolios and social media pages is something I am proficient at as well. HTML, CSS, JavaScript, Tailwind.
+      
     - Identify skills you need to develop or improve.
+      Althought I can understand the way the languages I learnt pretty well, I still believe there is room for improvement in all areas.
+      
 2. **Interests and Values**:
     
     - Describe your key interests related to your career.
+    - I find myself to be quite fascinated by gaminf, software front-end development and cyber-sercurity.
+    - 
     - What values are important to you in a work environment?
+      It would wonderful to work in an non-toxic enviroment where we believe taking care of nature is as important as building and innovating these new technologies.
 
 ### Part 2: Career Exploration Insights
 
 1. **Industries and Roles Explored**:
     
     - List the industries or roles you have researched.
+      I've done my research on, video game designing, cyber-sercurity, AI, robotics, front-end, back-end, full-stack development, data analyst, software engineering in 
+      universally well-known companies such as Google, Amazon etc.
+      
     - Note any particular areas that piqued your interest.
+  
+      Unfortunately, I am still looking for the right one. For now I would say Google.
+      
 2. **Alignment with Personal Profile**:
     
     - Reflect on how these industries/roles align with your skills, interests, and values.
+
+      
     - Identify any gaps or areas for further exploration.
 
 ### Part 3: SMART Career Goals
