@@ -55,20 +55,21 @@
     
     - Reflect on how these industries/roles align with your skills, interests, and values:
 
-       I've done my research on this topic:
-      -The types of jobs at **Amazon** and **Google** that align with my skills in **HTML, CSS, JavaScript, and Tailwind**:
+       -I've done my research on this topic:
+
+       The types of jobs at **Amazon** and **Google** that align with my skills in **HTML, CSS, JavaScript, and Tailwind**:
 
 1. **Amazon**:
     - **Front-End Developer**:
-        - As a front-end developer at Amazon, you would create and maintain user interfaces for Amazon's web applications. Your proficiency in HTML, CSS, and JavaScript would be crucial 
+        - As a front-end developer at Amazon, I would create and maintain user interfaces for Amazon's web applications. My proficiency in HTML, CSS, and JavaScript would be crucial 
           for building responsive, visually appealing, and interactive web pages.
         - Experience with **Tailwind CSS** could be advantageous, as it allows for efficient styling and consistent design patterns.
     - **Web Designer**:
-        - Web designers at Amazon work on the visual aspects of web pages. Your skills in HTML, CSS, and JavaScript would be essential for translating design concepts into functional 
+        - Web designers at Amazon work on the visual aspects of web pages. My skills in HTML, CSS, and JavaScript would be essential for translating design concepts into functional 
           interfaces.
         - Tailwind CSS knowledge could help streamline the design process.
     - **User Experience (UX) Developer**:
-        - UX developers focus on creating seamless and intuitive user experiences. Your expertise in front-end technologies would contribute to enhancing Amazon's user interfaces.
+        - UX developers focus on creating seamless and intuitive user experiences. My expertise in front-end technologies would contribute to enhancing Amazon's user interfaces.
         - Understanding how to use Tailwind CSS effectively could improve UI consistency and responsiveness.
 
 2. **Google**:
@@ -77,11 +78,11 @@
           JavaScript is essential.
         - Tailwind CSS skills could be valuable for maintaining a consistent design language across Google's applications.
     - **Web Developer**:
-        - Web developers at Google work on both front-end and back-end aspects of web applications. Your knowledge of HTML, CSS, and JavaScript would be foundational.
-        - Familiarity with Tailwind CSS could enhance your ability to create efficient and maintainable styles.
+        - Web developers at Google work on both front-end and back-end aspects of web applications. My knowledge of HTML, CSS, and JavaScript would be foundational.
+        - Familiarity with Tailwind CSS could enhance my ability to create efficient and maintainable styles.
     - **UI/UX Designer**:
-        - Google's UI/UX designers collaborate with engineers to create delightful user experiences. Your understanding of front-end technologies would be beneficial.
-        - Tailwind CSS could help you implement design guidelines effectively. 🌟💻
+        - Google's UI/UX designers collaborate with engineers to create delightful user experiences. My understanding of front-end technologies would be beneficial.
+        - Tailwind CSS could help me implement design guidelines effectively. 🌟💻
 
       
     - Identify any gaps or areas for further exploration:
@@ -96,23 +97,23 @@
    **SMART Goals** ( Specific, Measurable, Achievable, Relevant, and Time-bound):
 
 1. **Specific**: Clearly define what you want to achieve. In your case:
-   - "I want to become a junior software developer and study cyber-security part-time."
+   - I want to become a junior software developer and study cyber-security part-time.
 
-2. **Measurable**: Determine how you'll measure your progress. For instance:
-   - "I will complete my software development course by July 2024."
-   - "I will enroll in a cyber-security program within the next 6 months."
+2. **Measurable**: Determine how you'll measure your progress.
+   - I will complete my software development course by July 2024.
+   - "]I will enroll in a cyber-security program within the next 6 months.
 
 3. **Achievable**: Ensure your goal is realistic and attainable:
-   - "I will actively participate in coding projects during my software development course."
-   - "I will allocate time each week for cyber-security studies."
+   - I will actively participate in coding projects during my software development course.
+   - I will allocate time each week for cyber-security studies.
 
 4. **Relevant**: Align your goal with your long-term aspirations:
-   - "Becoming a junior developer will provide practical experience."
-   - "Studying cyber-security complements my software development skills."
+   - Becoming a junior developer will provide practical experience.
+   - Studying cyber-security complements my software development skills.
 
 5. **Time-bound**: Set a deadline for your goal:
-   - "By July 2024, I will secure a junior software developer position."
-   - "Within 2 years, I will complete my cyber-security studies."
+   - By July 2024, I will secure a junior software developer position.
+   - Within 2 years, I will complete my cyber-security studies.
 
 My SMART goal could be:
 
@@ -127,33 +128,33 @@ My SMART goal could be:
 
 1. **Specific**:
    - Clearly define what you want to achieve:
-     - "I want to establish a successful career in cyber security."
-     - "I aim to freelance as a cyber security professional."
-     - "I plan to create a business focused on mentoring young girls in software development and cyber security."
+     - I want to establish a successful career in cyber security.
+     - I aim to freelance as a cyber security professional.
+     - I plan to create a business focused on mentoring young girls in software development and cyber security.
 
 2. **Measurable**:
    - Determine how you'll measure your progress:
-     - "I will acquire relevant certifications or degrees in cyber security."
-     - "I will complete a certain number of freelance projects."
-     - "I will track the number of girls I mentor and their progress."
+     - I will acquire relevant certifications or degrees in cyber security.
+     - I will complete a certain number of freelance projects.
+     - I will track the number of girls I mentor and their progress.
 
 3. **Achievable**:
    - Ensure your goals are realistic and attainable:
-     - "I will actively seek job opportunities in cyber security."
-     - "I will build a strong portfolio for freelancing."
-     - "I will network with schools and organizations to find mentees."
+     - I will actively seek job opportunities in cyber security.
+     - I will build a strong portfolio for freelancing.
+     - I will network with schools and organizations to find mentees.
 
 4. **Relevant**:
    - Align your goals with your long-term vision:
-     - "A career in cyber security aligns with my passion and skills."
-     - "Freelancing allows me to gain diverse experience."
-     - "Mentoring young girls contributes to a more inclusive tech industry."
+     - A career in cyber security aligns with my passion and skills.
+     - Freelancing allows me to gain diverse experience.
+     - Mentoring young girls contributes to a more inclusive tech industry.
 
 5. **Time-bound**:
    - Set deadlines for each component of your goal:
-     - "Within 2 years, I will secure a full-time job in cyber security."
-     - "By the end of year 3, I will have completed at least 5 freelance projects."
-     - "Within 5 years, I will have established my mentoring business."
+     - Within 2 years, I will secure a full-time job in cyber security.
+     - By the end of year 3, I will have completed at least 5 freelance projects.
+     - Within 5 years, I will have established my mentoring business.
 
 My SMART goal plan could be:
 
@@ -201,8 +202,6 @@ My SMART goal plan could be:
       It is imperative that I prioritize the ongoing pursuit of my 1-2 year SMART Goals🌟📈.
       
     - Consider additional skills, experiences, or qualifications needed:
-      
-      Certainly! Here's a more professional rephrasing:
 
       I recognize the importance of completing my software development course to acquire the necessary skills for an entry-level position. Additionally, I am committed to advancing my 
       career in software development while pursuing part-time studies in cyber security. Once I have successfully completed my courses, I plan to explore freelance opportunities to 
