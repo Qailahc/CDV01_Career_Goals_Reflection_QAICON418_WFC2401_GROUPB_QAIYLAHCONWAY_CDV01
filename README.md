@@ -128,8 +128,7 @@ My SMART goal plan could be:
 
 > **"Over the next 5 years, I will build a successful career in cyber security, take on freelance projects, and launch my own business to mentor young girls interested in tech."**🌟
 
-
-    - Describe how these align with your interests and skills:
+  - Describe how these align with your interests and skills:
     I believe once I have completed my 1-2 year plan I'll have the skills to mentor young girls. It is a dream to help give them the confidence and not be afraid to enter a male- 
     dominate industry. 
     
@@ -138,19 +137,38 @@ My SMART goal plan could be:
 
 1. **Steps to Achieve Short-term Goals**:
     
-    - Detail specific actions or steps needed to achieve each short-term goal.
-    - Include any resources or support required.
+    - Detail specific actions or steps needed to achieve each short-term goal:
+      
+    - I'll firstly need to complete my CodeSpace Software Develpoment course, get a junior/entry-level developer job, and study paart-time for cyber-security.
+  
+      
+    - Include any resources or support required:
+      
+  
 2. **Preparation for Long-term Goals**:
     
-    - Describe the preparations or groundwork necessary for your long-term aspirations.
-    - Consider additional skills, experiences, or qualifications needed.
+    - Describe the preparations or groundwork necessary for your long-term aspirations:
+  
+    - It is necessary for me to continue working on my 1-2 year SMART Goals firstly.
+      
+    - Consider additional skills, experiences, or qualifications needed:
+    - I do need to complete my software development course to gain the skills required for a junior-level job. I do intend on working my way up with software development, and studying 
+      cyber-security part-time. Once I've completed my courses, I shall try free-lancing to see how it goes.
 
 ### Part 5: Reflection on Challenges and Opportunities
 
 1. **Anticipated Challenges**:
     
-    - Identify potential obstacles or challenges in reaching your goals.
-    - Consider strategies to overcome these challenges.
+    - Identify potential obstacles or challenges in reaching your goals:
+      
+    - My main obstacles I believe would be studying cyber-security part-time while working. But I believe it is doable.
+
+    - Consider strategies to overcome these challenges:
+  
+    - My time-management skills are up to par, with that I can movercome these challenges.
+  
+
+
 2. **Opportunities for Growth**:
     
     - Highlight any opportunities you can leverage for career growth.
