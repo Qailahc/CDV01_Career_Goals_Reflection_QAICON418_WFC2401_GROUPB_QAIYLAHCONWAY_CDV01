@@ -55,7 +55,7 @@
     
     - Reflect on how these industries/roles align with your skills, interests, and values:
 
-       -I've done my research on this topic:
+       I've done my research on this topic:
 
        The types of jobs at **Amazon** and **Google** that align with my skills in **HTML, CSS, JavaScript, and Tailwind**:
 
